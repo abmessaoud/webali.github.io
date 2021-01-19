@@ -1,16 +1,15 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
-
+title:          Ali Ben Messaoud
+description:    Software engineer
+url:            https://alibenmessaoud.com
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Ali Ben Messaoud
+  url:          https://alibenmessaoud.com
+  email:        contact@gmail.com
 
 # Build settings
 markdown:       kramdown

@@ -2,14 +2,23 @@
 title:          Ali Ben Messaoud
 description:    Software engineer
 url:            https://alibenmessaoud.com
+avatar:         https://avatars0.githubusercontent.com/u/760141?s=460&v=4
+
+footer-links:
+  github:         alibenmessaoud
+  linkedin:       alibenmessaoud
+  rss: # just type anything here for a working RSS icon
+  twitter:        alibenmessaoud
+  stackoverflow:  604156/ali-ben-messaoud
+
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-176055216-1
 
 # Author
 author:
   name:         Ali Ben Messaoud
   url:          https://alibenmessaoud.com
-  email:        contact@gmail.com
+  email:        hi@alibenmessaoud.com
 
 # Build settings
 markdown:       kramdown
@@ -23,6 +32,7 @@ sass:
 
 # Gems
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
@@ -33,7 +43,7 @@ permalink:      /:year-:month-:day/:title
 paginate:       5
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+exclude: [ Gemfile, Gemfile.lock ]
 
 # Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+disqus:         alibenmessaoud.github.io

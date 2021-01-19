@@ -11,15 +11,12 @@ footer,
   margin: 0 auto;
   max-width: 800px;
   width: 80%;
+  padding: 10px;
 }
 
 .nav {
     text-align: center;
     display: block;
-
-    &-container {
-        padding: 10px;
-    }
 
      ul {
         list-style-type: none;

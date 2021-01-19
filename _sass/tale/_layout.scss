@@ -15,15 +15,10 @@ footer,
 
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
-  overflow: auto;
 
   &-container {
-    margin: 1rem auto;
-    position: relative;
     text-align: center;
   }
-
-
 
   ul {
     list-style-type: none;

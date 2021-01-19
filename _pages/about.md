@@ -1,15 +1,21 @@
 ---
-layout: post
-title: "About"
-author: "Chester"
+layout: page
+title: About
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hello, I am Ali and I am a software engineer. I use and therefore will write about Java & Kotlin as backend technologies and I do like to get hands dirty with frontend technologies. The topics I will be writing about will cover microservices, the web, AI, and blockchain. I will additionally draft about my projects and my ideas that someone will be inspired and build them when I don’t have the time, skills, or money to pull them off. The ultimate aim of this blog is to make my little bit of the word and to share the working, tested solutions to various challenges I have found along the way.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+You may be wondering what experience I have. I started my career as a freelance developer building websites and apps for small businesses in Kairouan, Tunisia. Later I moved to France and started my career as a Software engineer in Paris. I worked for CEA Tech and Sopra HR Software as Software Engineer and since 2018 I have joined Arolla where I can work on several projects with several companies and teams.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Most of my knowledge comes from reading books, blogs, moocs, meetups, open source projects and learning from those I’ve worked with at the time.
 
-Thanks for reading!
+Some non-programming things to know about me. I live in Paris area, I am a coffee snob, and love football.
+
+Write me on ![](./images/mail.JPG)!
+
+[![enter image description here](https://i.stack.imgur.com/JgNHC.png)](http://fr.linkedin.com/in/alibenmessaoud)
+
+<a href="https://stackoverflow.com/users/604156/ali-ben-messaoud"><img src="https://stackoverflow.com/users/flair/604156.png" width="208" height="58" alt="profile for Ali Ben Messaoud at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ali Ben Messaoud at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+Having fun developing awesome stuff.

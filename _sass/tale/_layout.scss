@@ -23,32 +23,7 @@ footer,
     text-align: center;
   }
 
-  &-site-avatar {
-      height: 70px;
-      width: 70px;
-      text-align: center;
-      border-radius: 5px;
-      float: none;
-      display: block;
-      margin: 0 auto;
-  }
 
-  &-site-name {
-    @include transition(all .2s ease-out);
-        color: $default-color;
-        display: inline-block;
-        margin: 0;
-        padding-right: .2rem;
-
-        &:hover,
-        &:focus {
-          opacity: .6;
-        }
-  }
-
-  &-site-description {
-  color: red;
-  }
 
   ul {
     list-style-type: none;

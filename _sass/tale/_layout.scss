@@ -36,6 +36,14 @@ footer,
     }
   }
 
+  &-site-avatar {
+      float: none;
+      display: block;
+      margin: 0 auto;
+      width: 70px;
+      height: 70px;
+  }
+
   ul {
     list-style-type: none;
     margin: 1rem 0 0;

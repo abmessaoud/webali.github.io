@@ -23,20 +23,7 @@ footer,
     text-align: center;
   }
 
-  &-title {
-    @include transition(all .2s ease-out);
-    color: $default-color;
-    display: inline-block;
-    margin: 0;
-    padding-right: .2rem;
-
-    &:hover,
-    &:focus {
-      opacity: .6;
-    }
-  }
-
-  .site-avatar {
+  &-site-avatar {
       height: 70px;
       width: 70px;
       text-align: center;
@@ -44,6 +31,23 @@ footer,
       float: none;
       display: block;
       margin: 0 auto;
+  }
+
+  &-site-name {
+    @include transition(all .2s ease-out);
+        color: $default-color;
+        display: inline-block;
+        margin: 0;
+        padding-right: .2rem;
+
+        &:hover,
+        &:focus {
+          opacity: .6;
+        }
+  }
+
+  &-site-description {
+  color: red;
   }
 
   ul {

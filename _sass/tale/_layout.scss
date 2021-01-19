@@ -37,11 +37,13 @@ footer,
   }
 
   .site-avatar {
+      height: 70px;
+      width: 70px;
+      text-align: center;
+      border-radius: 5px;
       float: none;
       display: block;
       margin: 0 auto;
-      width: 70px;
-      height: 70px;
   }
 
   ul {

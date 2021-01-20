@@ -5,7 +5,7 @@ title: Docker 100 - Images
 
 In this article we will cover the basics of Docker images, commands and usage.
 
-{% include _posts_includes/docker-terminology.md %}
+{% include posts_includes/docker-terminology.md %}
 
 ## What is a Docker Image?
 

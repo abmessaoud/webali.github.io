@@ -5,7 +5,7 @@ title: Docker 101 - Layers
 
 In this article, we will learn how Docker handles Layers to create images and containers.
 
-{% include docker-terminology.md %}
+{% include _posts_includes/docker-terminology.md %}
 
 ## What are the layers?
 

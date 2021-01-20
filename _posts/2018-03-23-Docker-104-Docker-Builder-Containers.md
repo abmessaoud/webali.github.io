@@ -5,7 +5,7 @@ title: Docker 104 - Docker Builder Containers
 
 While most people consider `Docker` as an environment to run apps, in reality, `Docker` can be used in the process build as well (i.e. tooling via `Docker`). Yeah! it is used in DevOps with CI/CD tools. In this article, we’ll take a look at creating images to tell containers to build sources instead of running apps.
 
-{% include docker-terminology.md %}
+{% include _posts_includes/docker-terminology.md %}
 
 ## 1. Use Case
 

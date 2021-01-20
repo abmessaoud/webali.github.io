@@ -5,7 +5,7 @@ title: Docker 102 - Docker with Java Spring and Maven
 
 In this article, we'll learn how to create a Docker image of a Spring Boot application, using Dockerfile and Maven, and then run the image we've created.
 
-{% include posts_includes/docker-terminology.md %}
+--docker--
 
 ## Generate a Spring App
 

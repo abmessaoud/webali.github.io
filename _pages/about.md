@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: default
 title: "About"
-author: "Ali Ben Messaoud"
 permalink: /about/
 ---
 

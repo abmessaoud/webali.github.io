@@ -1,6 +1,8 @@
 test <a>test link </a>
 {% for tag in site.tags %}
     {% if tag[0] == "docker-series" %}
-        {{ tag[0] }}
+        {% for post in tag[1] %}
+            {{ post.title }}
+        {% endfor %}
     {% endif %}
 {% endfor %}

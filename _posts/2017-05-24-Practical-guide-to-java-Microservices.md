@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Practical Guide to Java Microservices
-tags: java microservices microservice jwt monolith spring sync async microservices-patterns
+tags: java microservices jwt monolith spring patterns
 ---
 
 Today’s applications are responsible for handling huge volumes of data for thousands of connected users at the same time. Thus the nature of the user experience demands fast applications and this is not possible with long delivery, large teams, and systems. Microservice architecture is an approach to distributed systems that promotes the use of finely-grained services instead of traditional tiered (multi-tier/ n-tier) architectures like monolith applications. In this guide, we will try to understand what microservices are, how to architect, and build them in Java.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apache Kafka - Introduction
+tags: kafka
 ---
 
 Kafka is gaining so much traction and hiring managers are looking for developers with this skill. Why? Because asynchronous communication between microservices can help to avoid bottlenecks that monolithic architectures are suffering from. Also, Kafka is a better solution for constructing microservices that require real-time streaming capabilities. Well, I wrote this article to help explain Kafka and present its use cases.

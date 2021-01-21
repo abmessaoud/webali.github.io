@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Code Review
+tags: best-practice
 ---
 
 In our daily tasks, designing, coding, and deploying are not the only things to do every day. There are also planning meetings and technical discussions to do with the other members and teams. And also code reviews (CRs). In this article, we will see what, why, how, and when to do code review.
@@ -85,20 +86,20 @@ Remember that the whole point of a review is to find problems, and problems will
 - Fight for beliefs and accept gracefully the defeat
 - Justify why the code exists
 - Help to maintain the coding standards. Respect them
--  Not take it personally when one problem is found 
--  Don’t be offended by your reviewer’s recommendations
--  Take recommendations seriously even if you don’t agree
--  Accept that many programming decisions are opinions
--  Ask good questions: to avoid judgment and avoid assumptions
--  Don't make requests
--  Ask for clarification
--  Be explicit
--  Be humble
--  Don't exaggerate
--  Don't use irony
--  Be grateful for the reviewer's suggestions
--  Push commits based on earlier rounds of feedback as isolated commits to the branch
--  Try to respond to every comment
+- Not take it personally when one problem is found 
+- Don’t be offended by your reviewer’s recommendations
+- Take recommendations seriously even if you don’t agree
+- Accept that many programming decisions are opinions
+- Ask good questions: to avoid judgment and avoid assumptions
+- Don't make requests
+- Ask for clarification
+- Be explicit
+- Be humble
+- Don't exaggerate
+- Don't use irony
+- Be grateful for the reviewer's suggestions
+- Push commits based on earlier rounds of feedback as isolated commits to the branch
+- Try to respond to every comment
 
 ## Tips for the Reviewer
 

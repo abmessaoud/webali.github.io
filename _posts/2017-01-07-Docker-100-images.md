@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker 100 - Images
-tags: docker image docker-image
+tags: docker docker-image docker-series
 ---
 
 In this article we will cover the basics of Docker images, commands and usage.

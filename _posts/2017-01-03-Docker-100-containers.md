@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Docker 100 - Containers
-tags: docker container docker-container docker-series
+tags: docker docker-container docker-series
 ---
 
 Docker is a tool for creating, deploying, and running apps easily. Docker guarantees that any app will run in the same way on every Docker instance. In this article we will cover the basics of Docker containers, commands and usage.
 
-{% include docker-terminology.md %} 
+{% include docker-series.html %} 
 
 To start working with containers, we need to download an Image. Let's start:
 

@@ -6,7 +6,7 @@ tags: docker docker-container docker-series
 
 Docker is a tool for creating, deploying, and running apps easily. Docker guarantees that any app will run in the same way on every Docker instance. In this article we will cover the basics of Docker containers, commands and usage.
 
-{% include docker-series-html.html %} 
+{% include docker-series.md %} 
 
 To start working with containers, we need to download an Image. Let's start:
 

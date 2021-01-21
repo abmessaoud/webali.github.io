@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Avoid Null
+tags: best-practice java null
 ---
 
 How to prevent the famous `NullPointerExceptions` in Java? This is one of the most important questions for every Java developer to ask independently of their level of expertise. 

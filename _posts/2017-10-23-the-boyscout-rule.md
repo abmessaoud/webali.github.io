@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Boy Scout Rule
+tags: best-practice
 ---
 
 The Boy Scout Rule can be summarized as: **Leave your code better than you found it.** Essentially, it means to leave our code a little better than how we found it when we started working on it.

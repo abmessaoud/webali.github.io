@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JWT Tokens in Plain Java
+tags: java jwt microservices
 ---
 
 Token authentication is a more modern approach, designed for securing access to microservices and solve problems server-side session IDs can’t. 

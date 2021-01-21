@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open/ Closed Principle
+tags: best-practice java solid
 ---
 
 In this article, we will see the Open/ Closed Principle (OCP), which is the “O” in the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles.

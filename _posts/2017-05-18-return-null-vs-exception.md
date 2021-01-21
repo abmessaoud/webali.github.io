@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Returning Null vs Exception
+tags: best-practice java null exception
 ---
 
 When designing an API, developers may always question what to set as a returned value when an operation cannot fulfill its contract? I don't know what do you think? Should we return null? Or should we throw an exception? We write and consume APIs every day! So what do you do in this case? As a user of some API, I want to use an easy and understandable API. Also, as an author, the API must be easy to write, read, and maintain.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dependency Inversion Principle
+tags: best-practice java solid
 ---
 
 In this article, we will see the Dependency Inversion Principle (DIP), which is the “D” in the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles.

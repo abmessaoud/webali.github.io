@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Red Green Refactoring
+tags: best-practice rgr tdd test-driven-development
 ---
 
 To execute Test-Driven Development (TDD) properly we need to learn its key methodology Red, Green, and Refactor (RGR). This method consists of 3 phases that are repeated continuously: *Red*, *Green,* and *Refactor*.

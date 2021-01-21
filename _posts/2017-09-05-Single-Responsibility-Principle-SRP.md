@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Single Responsibility Principle
+tags: best-practice java solid
 ---
 
 In this article, we will see the Single Responsibility Principle (SRP), which is the “S” in the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles.

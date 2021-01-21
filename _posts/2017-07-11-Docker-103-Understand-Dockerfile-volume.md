@@ -5,7 +5,7 @@ title: Docker 103 - Understand Dockerfile Volume
 
 In this article, we'll learn how to create a Docker image using `Dockerfile` and volumes, and we will see why we should not declare Docker or host path volumes in a `Dockerfile`.
 
---docker--
+{% include docker-terminology.md %}
 
 In a `Dockerfile`, the `VOLUME` instruction specifies the volumes with given container-side paths. But it does not allow the image author to define a host path for security reasons and because the path must be defined at runtime as it changes from an OS to another. Hence, this means that the volume will be unnamed.
 

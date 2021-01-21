@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Docker 100 - Images
+tags: docker image docker-image
 ---
 
 In this article we will cover the basics of Docker images, commands and usage.
@@ -213,4 +214,4 @@ We will be using these commands in the next sections with more options and detai
 
 ## Conclusion
 
-In this tutorial, we have seen Docker images and we build and run an Image.
+In this tutorial, we have seen Docker images, and we build and run an Image.

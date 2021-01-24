@@ -2,6 +2,7 @@
 
 layout: post
 title: Control Parallelism In Java Streams
+tags: java java8 streams
 ---
 
 Previously, I had a task to write a transformation pipeline of gigantic data sets. I will not speak about complexity due to the difference in the environments, and the size of data to handle is variable, as my first concern was the performance and how to speed up the execution. Besides the methods to play with data in Java `Streams`, it provides parallelism to use `concurrency` and multiple `cores` efficiency. In this tutorial, we’ll see how to use this API effectively. 

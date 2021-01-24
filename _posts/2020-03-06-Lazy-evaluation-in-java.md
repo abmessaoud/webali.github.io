@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lazy evaluation in Java
+tags: java
 ---
 
 Lazy evaluation is a strategy that delays the evaluation of an expression until its value is asked. The reverse is eager. Programming languages are classed into strict and lazy. As an example, Java is a strict language, and Haskell is lazy by default.

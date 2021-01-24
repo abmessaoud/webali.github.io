@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do You Want to Test Like a Pro?
+tags: test tdd best-practice
 ---
 
 Today's post is a set of notes from [Vicor Rentea ](https://youtu.be/1Z_h55jMe-M)about testing and doing it like a pro. This overview is a reference for myself, and I've just put it here. I will try in the next post to set up an article about Good programming tests' principles.

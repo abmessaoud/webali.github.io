@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Git Branching for PR 
+title: Git Branching for PR
+tags: git cli
 ---
 
-In the past, I struggled with the code review and the merge of large pull requests as an author and also as a reviewer. In this article, we will see a simple technique to create branches and get the code review easier overtime. 
+In the past, I struggled with the code review, and the merge of large pull requests as an author and also as a reviewer. In this article, we will see a simple technique to create branches and get the code review easier overtime. 
 
 For complex requests that should be merged in the main branch (`master` or any other principal branch) as a single or two commits but they are too large to fit in one understandable pull request, consider a stacked pull request model:
 

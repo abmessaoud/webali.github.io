@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker 101 - Layers
-tags: docker docker-layer
+tags: docker docker-layer  docker-series
 ---
 
 In this article, we will learn how Docker handles Layers to create images and containers.

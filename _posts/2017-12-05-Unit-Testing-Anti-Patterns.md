@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Unit Testing Anti-Patterns
+tags: test best-practice patterns
 ---
 
 Software development consists of many stages and if bugs are caught in the earlier stages it costs much less to fix them. That is why it’s important to get testing done as soon as possible. In this article, I'll write about unit testing anti-patterns because they also exist, and there are many. All these patterns are based on several posts like [stackoverflow.com](https://stackoverflow.com/questions/333682/unit-testing-anti-patterns-catalogue).

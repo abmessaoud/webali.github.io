@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Improving Null Safety in Java
+tags: java java8 optional null
 ---
 
 In this article, we will present a couple of ways to prevent writing needless `null` checking by using `Optional` API and lambda expressions.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Useful git Commands You need to Know
+tags: git cli
 ---
 
 In this article, we are going to go over the top lesser know [Git](https://git-scm.com/) commands that may make your life simpler. Some of these you may have used, some may be new to you.

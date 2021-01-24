@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Legacy Code, My Old Friend
-tags: legacy
+tags: legacy best-practice
 ---
 
 What is a legacy, a legacy system? A legacy system is an old method, technology, system, or application of, relating to, or being a previous or outdated computer system, yet still in the business; otherwise, it would not have survived.

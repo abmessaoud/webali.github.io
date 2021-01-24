@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Java Optional Recipes
+tags: java java8 monad optional
 ---
 
 In this tutorial, we'll walk through the Optional class methods that was introduced in Java 8 and improved with new features in the last versions of Java.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kubernetes 102 - Kubctl Commands for Docker Users
+tags: kubernetes kubernetes-series cloud cli
 ---
 
 `Kubectl` CLI is a great tool to interact with Kubernetes cluster. In this post, we'll learn the most common `Kubectl` commands by comparing each command to its equivalent in Docker. Indeed if you are familiar with the Docker command line tool, you will see that you are using the same commands as with `kubctl`. 

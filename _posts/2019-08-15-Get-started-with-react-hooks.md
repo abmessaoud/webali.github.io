@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Get Started With React Hooks
+tags: reactjs react patterns hooks
 ---
 
 In this tutorial, we'll take a look at React Hooks and how you use them?

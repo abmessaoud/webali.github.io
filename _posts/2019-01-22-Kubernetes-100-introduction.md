@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Kubernetes 100 - Introduction
+tags: kubernetes kubernetes-series cloud
 ---
 
 Born in google and donated to Cloud Native Computing Foundation in 2014, 2017 was the year when Kubernetes conquered the container orchestration space as Docker Swarm and Mesos. In this article, we will see the basics of Kubernetes.
 
 The name “Kubernetes” stems from an ancient Greek word for “helmsman,” someone who steers a ship, like a container ship, which explains the ship wheel logo &#9784;.
-
 
 > Kubernetes is a system for managing containerized applications across a cluster of nodes
 

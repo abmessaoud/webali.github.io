@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interface Segregation Principle
-tags: best-practice java solid 
+tags: best-practice solid 
 ---
 
 In this article, we will see the Interface Segregation Principle (ISP), which is the “I” in the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles.

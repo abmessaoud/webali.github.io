@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RDV For Social Distancing
+tags: COVID-19
 ---
 
 As we adapt to what has been stamped "the new normal", long-standing habits have been redefined to fit present social restrictions. One well-known change is how we attend public spaces during these restrictions. Among these new limitations or habits, social distancing is encouraged by many governments. Social distancing has been introduced to reduce the spread of infection and to avoid unnecessary social gatherings.

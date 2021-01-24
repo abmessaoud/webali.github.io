@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kubernetes 101 - Start Containers Using kubctl
+tags: kubernetes kubernetes-series cloud cli
 ---
 
 We can manage a Deployment by using the Kubernetes CLI called `kubectl`. `kubectl`is based on the API Server to interact with the Kubernetes cluster. In this article, we'll learn the most common `kubectl` commands needed and how to start containers.

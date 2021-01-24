@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Law of Demeter
-tags: best-practice java
+tags: best-practice
 ---
 
 The "Law" of Demeter (LoD) is a design guideline for developing object-oriented software. In its general form, the Law of Demeter is a specific case of loose coupling.

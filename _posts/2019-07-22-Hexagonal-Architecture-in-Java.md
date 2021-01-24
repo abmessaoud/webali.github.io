@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hexagonal Architecture in Java
+tags: architecture patterns
 ---
 
 In this article, we'll talk about Hexagonal Architecture, and we’ll build a Java app to illustrate its concepts.

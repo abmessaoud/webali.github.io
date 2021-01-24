@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liskov Substitution Principle
-tags: best-practice java solid
+tags: best-practice solid
 ---
 
 In this article, we will see the Liskov Substitution Principle (LSP), which is the “L” in the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles.

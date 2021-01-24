@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AWS Cloud Practitioner Preparation and Exam Notes
+tags: cloud aws
 ---
 
 Later, when talking with the DevOps guy of our team about cloud and getting certified, he told me he's trying to pass AWS Cloud Solution Architect! Why? Because AWS is the industry-leading Cloud Services Provider (edging out Microsoft Azure and Google Cloud). Well, he convinced me to walk the AWS path for more than one reason: The number of services at AWS is higher than in the other cloud providers together. Also, because the others are just copying what AWS is doing or creating. Understanding AWS's things are enough to work with a different cloud provider if one day, one of my clients is not AWS. So I decided that the AWS CCP is a good place to start. 

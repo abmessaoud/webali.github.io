@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Say Hello to var in Java 10
+tags: java
 ---
 
 Java 10 had been published last March, 20th 2018 and it came with new features like local-variable type inference ([JEP 286](http://openjdk.java.net/jeps/286)). This version carries the `var` keyword to declare local variables without typing with the type information: `var users = new ArrayList<User>();`

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Quarkus Microservice
+tags: java microservice architecture
 ---
 
 Supersonic and subatomic! That's the first time I've heard about it in May 2019.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Update your fork directly on GitHub
+tags: git github
 ---
 
 How to update a forked repo and get the last updates from the original project?

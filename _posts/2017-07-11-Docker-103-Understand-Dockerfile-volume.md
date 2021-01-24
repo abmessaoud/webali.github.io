@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker 103 - Understand Dockerfile Volume
-tags: docker volume docker-volume 
+tags: docker volume docker-volume docker-series 
 ---
 
 In this article, we'll learn how to create a Docker image using `Dockerfile` and volumes, and we will see why we should not declare Docker or host path volumes in a `Dockerfile`.

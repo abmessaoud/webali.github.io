@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DDD - Building Blocks
+tags: ddd domain-driven-design design ddd-series
 ---
 
 DDD fundamentals can be divided into two groups: building blocks and strategic design. In this article we will look at the building blocks such as ubiquitous language, multilayered architecture, and the artifacts, and  explain the usage and importance of the building blocks of DDD.

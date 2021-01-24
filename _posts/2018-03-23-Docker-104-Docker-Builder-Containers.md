@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Docker 104 - Docker Builder Containers
+tags: docker docker-series java nodejs spring maven
 ---
 
 While most people consider `Docker` as an environment to run apps, in reality, `Docker` can be used in the process build as well (i.e. tooling via `Docker`). Yeah! it is used in DevOps with CI/CD tools. In this article, we’ll take a look at creating images to tell containers to build sources instead of running apps.

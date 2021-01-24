@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to test date created with LocalDate.now()?
+tags: java test java8 date mock
 ---
 
 Once, I needed to test time-sensitive methods because there was a logic around the current date in my code. In these methods, I am using `LocalDate ` Java classes. 

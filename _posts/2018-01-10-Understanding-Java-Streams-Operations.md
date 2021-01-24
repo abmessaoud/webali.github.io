@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Understanding Java Streams Operations
+tags: java java8 streams
 ---
 
 In this tutorial, we'll walk through the Optional class methods that were introduced in Java 8 and improved with new features in the last versions of Java.

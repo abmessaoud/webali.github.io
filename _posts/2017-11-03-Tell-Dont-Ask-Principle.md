@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tell Don’t Ask Principle
-tags: best-practice java
+tags: best-practice
 ---
 
 Whenever we create a new application, designing classes is among the first and important tasks because the taken decisions at that phase will and could affect the rest of our work. So to succeed this step, we should apply the best practices and principles. Especially when defining the boundaries and responsibilities of each class as we are doing object-oriented programming (OOP) which is unlike the procedural programming (PP).

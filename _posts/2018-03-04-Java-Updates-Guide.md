@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Java Updates Guide
+tags: java
 ---
 
 

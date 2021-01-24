@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Micro Frontends, The New Microservices
+tags: java microservice architecture frontend
 ---
 
 In the last years, microservices have got much attention. Several companies adopted them, allowing teams to scale various applications independently and quickly and bypass large monolithic backends' constraints. Sadly, we've also seen many teams continuing to cope with a monolithic frontend — a big browser beast cursed application that sits on top of the backend components.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Continuous Delivery - Small Batches and Risk
+tags: best-practice ci/cd
 ---
 
 In this article, we'll talk about the principles of continuous delivery, and we'll focus on the Work in Small Batches principle and how it helps reduce risks.

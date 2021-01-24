@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ACID Transactions
+tags: acid database db
 ---
 
 Programming is about managing data that point to the state of a system. Databases are the right place to store data. So they helped us to build applications pretty easily and to manage the state of systems. But with the nature of the applications, handling the storage is not that easy though, because anything can happen, from failures to concurrency issues. Transactions are the answer to these issues. In this article, we will see a set of properties of database transactions intended to guarantee data validity despite errors, power failures, and other mishaps: `ACID`.

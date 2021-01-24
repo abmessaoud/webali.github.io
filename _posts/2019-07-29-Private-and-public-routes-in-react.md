@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Private and Public Routes in React
+tags: reactjs react patterns
 ---
 
 In this tutorial, we will learn how to manage different types of routes private and public in an application.

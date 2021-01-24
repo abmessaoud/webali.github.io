@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Presentational vs Container Components
+tags: reactjs react patterns
 ---
 
 In this article, we'll talk about the difference between Presentational and Container Components in React.

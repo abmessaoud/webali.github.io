@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java, RAM and Docker
-tags: java docker-series docker ram cpu
+tags: java docker ram cpu
 ---
 
 When we run a Java application in physical servers, we can specify the Java heap size. When doing containers, we must consider the same practice. But. By default, in Docker, containers have access to the full CPU and RAM of the host. You might be wondering how to configure RAM and Memory in the container’s world? Are there any best practices? Yes, we must do it because leaving them to run with these default settings may lead to performance bottlenecks. In this tutorial, we will learn how to limit the RAM and CPU usage of Docker containers.

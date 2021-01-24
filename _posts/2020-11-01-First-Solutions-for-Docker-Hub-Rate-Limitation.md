@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Solutions for Docker Hub Rate Limitation
-tags: docker-series docker docker-limitations kubernetes
+tags: docker docker-limitations kubernetes
 ---
 
 You have reached your pull rate limit. You may increase the ... This is what you will see by the end of November 1st or maybe later if you don't have a plan. After this date, all image pulls will be put through strict constraints. Anonymous users will be limited to 100 pulls/ 6 hours, and authenticated free users will be limited to 200 pulls/ 6 hours. Docker Pro and Docker Team subscribers will have no restriction as long as they are not abusive and still pay the bills.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDD - The Fundamentals of DDD
-tags: ddd domain-driven-design design ddd-series
+tags: ddd architecture ddd-series
 ---
 
 DDD fundamentals can be divided into two groups: building blocks and strategic design. These can be further categorized into various groups, shown as follows:

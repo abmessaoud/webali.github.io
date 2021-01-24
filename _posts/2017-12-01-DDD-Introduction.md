@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDD - Introduction
-tags: ddd domain-driven-design design ddd-series
+tags: ddd architecture ddd-series
 ---
 
 Good software design is as much the key to the success of a product as the offered functionalities; for example, Facebook provides a social networking platform and its architecture makes it different from other similar sites and contributes to its success. This shows how important a design is important to the success of a product.

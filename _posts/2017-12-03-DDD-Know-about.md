@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DDD - Know About
-tags: ddd domain-driven-design design ddd-series
+tags: ddd architecture ddd-series
 ---
 
 To define DDD, we should first learn by what does it means "domain" in this context?

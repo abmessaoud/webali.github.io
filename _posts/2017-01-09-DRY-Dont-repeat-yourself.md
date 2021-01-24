@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DRY
-tags: best-practice dry wet java
+tags: best-practice java
 ---
 
 DRY, Don't Repeat Yourself, is perhaps one of the most fundamental of all the programming principles that had been introduced by Andy Hunt and Dave Thomas in The Pragmatic Programmer. In this article, we are going to explore DRY software design principle and its benefits.
